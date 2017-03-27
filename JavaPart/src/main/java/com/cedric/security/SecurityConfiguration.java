@@ -16,7 +16,6 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 		.antMatchers("/*").hasRole("USER")
 		.and()
 		.formLogin();
-	System.out.println("configure");
   }
 
 	@Autowired

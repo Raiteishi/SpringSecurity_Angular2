@@ -20,6 +20,7 @@ export class LoginService {
     sendCredential(username: String, password: String) {
         let headers = new Headers();
         headers.append('Content-Type', 'application/x-www-form-urlencoded');
+        headers.append('Accept','text/html');
         let params = "username="+username+"&password="+password;
         return this.http.post(this.link+"login", params,{headers:headers,withCredentials:true})
         .map(response => response.json());
