@@ -1010,3 +1010,107 @@
 2017-03-27 10:25:17,032 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
 2017-03-27 10:28:26,085 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1a354963{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
 2017-03-27 10:28:26,117 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@d106360{/help,null,UNAVAILABLE}
+2017-03-27 10:57:29,836 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 10:57:29,868 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 10:57:29,878 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 10:57:29,881 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 10:57:29,881 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 10:59:30,171 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @1682472ms
+2017-03-27 10:59:30,347 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-03-27 10:59:30,430 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@f69ce90{/help,null,AVAILABLE}
+2017-03-27 10:59:30,479 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6eccd64a{HTTP/1.1,[http/1.1]}{127.0.0.1:58118}
+2017-03-27 10:59:30,479 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @1682781ms
+2017-03-27 11:17:24,598 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6eccd64a{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-03-27 11:17:24,672 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@f69ce90{/help,null,UNAVAILABLE}
+2017-03-27 13:53:13,754 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 13:53:13,818 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 13:53:13,852 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 13:53:13,873 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 13:53:13,873 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:03:01,222 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @1285151ms
+2017-03-27 14:03:01,458 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-03-27 14:03:01,619 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@ce585d1{/help,null,AVAILABLE}
+2017-03-27 14:03:01,636 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@101061f9{HTTP/1.1,[http/1.1]}{127.0.0.1:54828}
+2017-03-27 14:03:01,636 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @1285566ms
+2017-03-27 14:05:52,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:05:52,993 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:05:52,997 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:05:53,000 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:05:53,000 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:18:26,859 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:18:26,861 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:18:26,865 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:18:26,867 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:18:26,867 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:18:29,475 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:18:29,476 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:18:29,479 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:18:29,481 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:18:29,482 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:20:19,897 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:20:19,899 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:20:19,901 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:20:19,903 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:20:19,903 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:20:29,604 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:20:29,605 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:20:29,608 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:20:29,610 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:20:29,611 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:24:37,126 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:24:37,127 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:24:37,130 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:24:37,133 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:24:37,133 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:24:52,832 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:24:52,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:24:52,835 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:24:52,838 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:24:52,839 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:34:02,542 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:34:02,543 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:34:02,547 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:34:02,549 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:34:02,549 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:38:34,533 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:38:34,534 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:38:34,539 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:38:34,542 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:38:34,542 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:49:56,369 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:49:56,371 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:49:56,373 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 14:49:56,377 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:49:56,377 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 14:49:58,060 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:49:58,061 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 14:49:58,061 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 14:49:58,063 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 14:49:58,064 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 15:05:12,840 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:05:12,841 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:05:12,843 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:05:12,845 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:05:12,845 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 15:05:39,009 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:05:39,009 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:05:39,011 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:05:39,013 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:05:39,013 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 15:07:16,312 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:07:16,313 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:07:16,315 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:07:16,317 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:07:16,317 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 15:18:28,298 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:18:28,300 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:18:28,304 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 15:18:28,310 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 15:18:28,310 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 17:37:00,325 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 17:37:00,327 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 17:37:00,330 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-27 17:37:00,332 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 17:37:00,332 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 18:20:08,787 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@101061f9{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-03-27 18:20:08,937 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@ce585d1{/help,null,UNAVAILABLE}

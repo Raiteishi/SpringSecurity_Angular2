@@ -28,6 +28,7 @@ public class HomeController {
 	
 	@RequestMapping("/all")
 	public List<User> getAllUser(){
+		System.out.println("all");
 		return userService.getAll();
 	}
 }
