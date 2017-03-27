@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart"/>
 		<item value="C:\Users\Zenryou\Documents\SpringSecurity_Angular2\JavaPart"/>
 	</list>
 </section>

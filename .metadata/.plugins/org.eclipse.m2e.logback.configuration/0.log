@@ -1008,3 +1008,5 @@
 2017-03-27 10:25:17,030 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2017-03-27 10:25:17,031 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-27 10:25:17,032 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\crano\Documents\Apside\TestSpringSecurity\SpringSecurity_Angular2\JavaPart\src\test\resources
+2017-03-27 10:28:26,085 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1a354963{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-03-27 10:28:26,117 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@d106360{/help,null,UNAVAILABLE}
